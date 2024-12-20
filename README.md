@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muaviaasghar&label=Profile%20views&color=0e75b6&style=flat" alt="muaviaasghar" /> </p>
 
-- 🔭 I’m currently working on [Chat App](https://github.com/MuaviaAsghar/Muavia-Asghar-Chat-App)
+- 🔭 I’m currently figuring out what to do
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **How to Learn Things**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **My life, the happy one the sad one is a secret or my fake face**
 
 - 📫 How to reach me **MuaviaAsghar@mail.com**
 
