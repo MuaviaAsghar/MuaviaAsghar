@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muaviaasghar&label=Profile%20views&color=0e75b6&style=flat" alt="muaviaasghar" /> </p>
 
-- 🔭 I’m currently figuring out what to do
+- 🔭 I’m currently figuring out what to do.
 
-- 🌱 I’m currently learning **How to Learn Things**
+- 🌱 I’m currently learning how to learn new things.
 
-- 💬 Ask me about **My life, the happy one the sad one is a secret or my fake face**
+- 💬 Ask me about my life—the happy parts. The sad ones are a secret, or you can ask about my fake face.
 
 - 📫 How to reach me **MuaviaAsghar@mail.com**
 
