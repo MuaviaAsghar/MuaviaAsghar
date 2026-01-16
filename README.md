@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning how to learn new things.
 
-- 💬 Ask me about my life—the happy parts. The sad ones are a secret, or you can ask about my fake face.
+- 💬 Ask me about the things you are intrested in....I might be intrested in them too.
 
 - 📫 How to reach me **MuaviaAsghar@mail.com**
 
