@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muavia Asghar</h1>
-<h3 align="center">A student and passionate Flutter developer from Pakistan</h3>
+<h3 align="center">A guy Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muaviaasghar&label=Profile%20views&color=0e75b6&style=flat" alt="muaviaasghar" /> </p>
 
